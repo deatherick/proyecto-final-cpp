@@ -98,9 +98,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Catedratico.cpp" />
+    <ClCompile Include="Curso.cpp" />
+    <ClCompile Include="Estudiante.cpp" />
     <ClCompile Include="ProyectoFinal.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Catedratico.h" />
+    <ClInclude Include="Curso.h" />
     <ClInclude Include="Estudiante.h" />
     <ClInclude Include="ProyectoFinal.h" />
   </ItemGroup>

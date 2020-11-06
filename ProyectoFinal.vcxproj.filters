@@ -18,12 +18,27 @@
     <ClCompile Include="ProyectoFinal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Catedratico.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Estudiante.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Curso.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Estudiante.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ProyectoFinal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Catedratico.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Curso.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
